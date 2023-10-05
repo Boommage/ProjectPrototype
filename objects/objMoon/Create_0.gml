@@ -1,0 +1,9 @@
+landVal = 0;
+moveVal = 0
+lasVal = 40
+l = 0
+t = 0
+f = 0
+s = 0
+bulSpeed = 40
+lifeVal = 100

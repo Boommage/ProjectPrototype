@@ -1,0 +1,2 @@
+//trigger
+death = 1
