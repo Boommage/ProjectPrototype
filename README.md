@@ -1,6 +1,6 @@
 # ProjectPrototype
 
-A Manic Shooter Game programmed in Game Maker. Survive waves of enimies while trying to collect the highes score possible in this fast pace action arcade game. This was a project I started in school
+A Manic Shooter Game programmed in Game Maker. Survive waves of enimies while trying to collect the highes score possible in this fast pace action arcade game. This was a project I started in school and have decided to continue.
 Currently the first level has been fully programmed along with a intro tutorial. The next part I'm currently working on is creating a interactive sliders in the settings along with the ability for the user to change their control mappings if they desire.
 This project is currently still in development and is not the final product. 
 
