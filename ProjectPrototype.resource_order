@@ -69,6 +69,8 @@
     {"name":"leftWall","order":5,"path":"objects/leftWall/leftWall.yy",},
     {"name":"explMid","order":3,"path":"sounds/explMid/explMid.yy",},
     {"name":"objExplSm","order":13,"path":"objects/objExplSm/objExplSm.yy",},
+    {"name":"Sprite15","order":16,"path":"sprites/Sprite15/Sprite15.yy",},
+    {"name":"BUHG_OBJECT","order":25,"path":"objects/BUHG_OBJECT/BUHG_OBJECT.yy",},
     {"name":"explSmall","order":4,"path":"sounds/explSmall/explSmall.yy",},
   ],
 }
